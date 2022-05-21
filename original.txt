@@ -1,3 +1,4 @@
 original
 text
 remote commit
+remote commit 2
